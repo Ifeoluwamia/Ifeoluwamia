@@ -11,7 +11,7 @@ I'm a dedicated Data Analyst with a degree in Computer Science and certification
 *📜 Certifications and Achievements:*  
 - *Data Visualization Internship Certificate*: Awarded with a certificate and badge for outstanding performance.
 
-[View my Data Visualization Internship Certificate](https://github.com/Ifeoluwamia/ACHIEVEMENTS/blob/main/CERTIFICATE%20(DATA%20VISUALIZATION).pdf)
+[View my Data Visualization Internship Certificate](https://github.com/Ifeoluwamia/Ifeoluwamia/blob/main/CERTIFICATE%20(DATA%20VISUALIZATION).pdf)
 
 *📚 Education & Certification:*  
 - *Degree*: Bachelor’s in Computer Science  
